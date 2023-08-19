@@ -17,7 +17,7 @@ Renan_Rodrigues = {
 <br/>
 
 <a href="https://github.com/renanrcrr">
-  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanrcrr&layout=compact&theme=highcontrast" />
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs?username=renanrcrr&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a href="https://github.com/renanrcrr">
