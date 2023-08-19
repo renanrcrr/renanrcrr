@@ -2,8 +2,6 @@
 
 [![Linkedin: Renan Rodrigues](https://img.shields.io/badge/-RenanRodrigues-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rcrrodrigues/)](https://www.linkedin.com/in/rcrrodrigues/)
 
-<br/>
-
 ```python
 Renan_Rodrigues = {
     "preferenceName": ("Renan"),
@@ -16,11 +14,11 @@ Renan_Rodrigues = {
 
 <br/>
 
-<a href="https://github.com/rcrrodrigues">
-  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanrcrr&hide=jupyter%20notebook,html&layout=compact&theme=algolia" />
+<a href="https://github.com/renanrcrr">
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanrcrr&layout=compact&theme=highcontrast" />
 </a>
 
-<a href="https://github.com/rcrrodrigues">
-  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=renanrcrr&show_icons=true&theme=algolia" />
+<a href="https://github.com/renanrcrr">
+  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=renanrcrr&show_icons=true&theme=yeblu" />
 </a>
 
