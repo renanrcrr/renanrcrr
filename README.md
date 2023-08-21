@@ -21,6 +21,6 @@ Renan_Rodrigues = {
 </a>
 
 <a href="https://github.com/renanrcrr">
-  <img align="left"  height='150px' src="https://github-readme-stats-sigma-five.vercel.app/api?username=renanrcrr&show_icons=true&theme=yeblu" />
+  <img align="left"  height='150px' src="https://github-readme-stats-sigma-five.vercel.app/api?username=renanrcrr&show_icons=true&theme=solarized-light" />
 </a>
 
