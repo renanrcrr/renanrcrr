@@ -17,10 +17,10 @@ Renan_Rodrigues = {
 <br/>
 
 <a href="https://github.com/renanrcrr">
-  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanrcrr&layout=compact&theme=highcontrast" />
+  <img align="left" height='150px' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renanrcrr&layout=compact&theme=highcontrast" />
 </a>
 
 <a href="https://github.com/renanrcrr">
-  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=renanrcrr&show_icons=true&theme=yeblu" />
+  <img align="left"  height='150px' src="https://github-readme-stats-sigma-five.vercel.app/api?username=renanrcrr&show_icons=true&theme=yeblu" />
 </a>
 
