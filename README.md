@@ -8,7 +8,8 @@ Renan_Rodrigues = {
     "pronouns": ("he", "him"),
     "codes": {"Python3": ("Web2py", "Django"), "Java": ("Struts", "JSF", "Vraptor", "Spring Security"), 
         "PHP": ("CakePHP"), "JS": ("React", "Typescript", "Next", "Express")},
-    "interests": ("Backend Developement", "AWS", "Data Science", "Microservices"),
+    "interests": ("ML", "AWS", "Data Science", "Microservices"),
+    "mainCertifications": ("Amazon", "Python_Institute", "Stanford"),
     "techCommunities": {"Member of the": 
         ("IT.BR AU Melbourne", "Data Science AU.BR", "AWS AU.BR", "Python - IT.BR Australia", "IT.BR Java", "IT.BR Data")} 
 }
