@@ -7,7 +7,7 @@ Renan_Rodrigues = {
     "preferenceName": ("Renan"),
     "pronouns": ("he", "him"),
     "codes": {"Python3": ("Web2py", "Django"), "Java": ("Struts", "JSF", "Vraptor", "Spring Security"), 
-        "PHP": ("CakePHP"), "JS": ("React", "Typescript", "Next", "Express")},
+        "PHP": ("CakePHP"), "JS": ("React", "Typescript", "Next", "Express"), ".NET": ("ASP.NET 6 Core MVC")},
     "interests": ("ML", "AWS", "Data Science", "Microservices"),
     "mainCertifications": ("Amazon", "Python_Institute", "Stanford"),
     "techCommunities": {"Member of the": 
