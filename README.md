@@ -8,7 +8,7 @@ Renan_Rodrigues = {
     "pronouns": ("he", "him"),
     "codes": {"Python3": ("Django"), "Java": ("Struts", "JSF", "Vraptor", "Spring"), 
         "PHP": ("CakePHP"), "JS": ("React", "Typescript", "Next", "Express"), ".NET": ("ASP.NET 6 Core MVC")},
-    "iac": ("Terraform"),
+    "iac": ("Terraform", "CloudFormation"),
     "deepLearning": ("PyTorch", "TensorFlow"),
     "dataScience": ("NumPy", "Pandas", "Matplotlib"),
     "bigData": ("Databricks", "PySpark"),
