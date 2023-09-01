@@ -6,15 +6,16 @@
 Renan_Rodrigues = {
     "preferenceName": ("Renan"),
     "pronouns": ("he", "him"),
-    "codes": {"Python3": ("PySpark", "Django"), "Java": ("Struts", "JSF", "Vraptor", "Spring Security"), 
+    "codes": {"Python3": ("Django"), "Java": ("Struts", "JSF", "Vraptor", "Spring"), 
         "PHP": ("CakePHP"), "JS": ("React", "Typescript", "Next", "Express"), ".NET": ("ASP.NET 6 Core MVC")},
     "iac": ("Terraform"),
-    "bigdata": ("Databricks", "Spark"),
-    "ai": ("Deep Learning"),
-    "interests": ("ML", "Cloud", "Data Science", "BigData"),
+    "deepLearning": ("PyTorch", "TensorFlow"),
+    "dataScience": ("NumPy", "Pandas", "Matplotlib"),
+    "bigData": ("Databricks", "PySpark"),
+    "interests": ("ML", "Cloud", "Data_Science", "BigData"),
     "mainCertifications": ("Amazon", "Python_Institute", "Stanford"),
     "techCommunities": {"Member of the": 
-        ("IT.BR AU Melbourne", "Data Science AU.BR", "AWS AU.BR", "Python - IT.BR Australia", "IT.BR Java", "IT.BR Data")} 
+        ("IT.BR Australia", "Data Science AU.BR", "AWS AU.BR", "Python - IT.BR Australia", "IT.BR Java", "IT.BR Data")} 
 }
 ```
 
