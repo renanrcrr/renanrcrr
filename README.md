@@ -12,8 +12,8 @@ Renan_Rodrigues = {
     "deepLearning": ("PyTorch", "TensorFlow"),
     "dataScience": ("NumPy", "Pandas", "Matplotlib"),
     "bigData": ("Databricks", "PySpark"),
-    "interests": ("ML", "Cloud", "Data_Science", "BigData"),
-    "mainCertifications": ("Amazon", "Python_Institute", "Stanford"),
+    "interests": ("ML", "Cloud", "DataScience", "BigData"),
+    "mainCertifications": ("Amazon", "PythonInstitute", "Stanford"),
     "techCommunities": {"Member of the": 
         ("IT.BR Australia", "Data Science AU.BR", "AWS AU.BR", "Python - IT.BR Australia", "IT.BR Java", "IT.BR Data")} 
 }
