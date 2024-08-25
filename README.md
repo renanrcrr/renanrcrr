@@ -1,6 +1,6 @@
 <h2>Hi there! My name is Renan Rodrigues.</h2>
 
-[![Linkedin: Renan Rodrigues](https://img.shields.io/badge/-RenanRodrigues-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rcrrodrigues/)](https://www.linkedin.com/in/rcrrodrigues/)
+[![Linkedin: Renan Rodrigues](https://img.shields.io/badge/-RenanRodrigues-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanrcrr/)](https://www.linkedin.com/in/renanrcrr/)
 
 ```python
 Renan_Rodrigues = {
