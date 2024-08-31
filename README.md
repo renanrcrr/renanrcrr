@@ -21,9 +21,3 @@ Renan_Rodrigues = {
 
 <br/>
 
-<a href="https://github.com/renanrcrr">
-  <img align="left" height='150px' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renanrcrr&layout=compact&theme=flag-india" />
-</a>
-
-
-
