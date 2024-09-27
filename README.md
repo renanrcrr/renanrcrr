@@ -6,7 +6,7 @@
 Renan_Rodrigues = {
     "preferenceName": ("Renan"),
     "pronouns": ("he", "him"),
-    "codes": {"Python3": ("Django"), "Java": ("Struts", "JSF", "Vraptor", "Spring"), 
+    "codes": {"Python3": ("Django"), "Java": ("Tapestry", "JSF", "Vraptor", "Spring"), 
         "PHP": ("Laravel"), "JS": ("React", "Typescript", "Next", "Express")},
     "iac": ("Terraform", "CloudFormation"),
     "deepLearning": ("PyTorch", "TensorFlow"),
