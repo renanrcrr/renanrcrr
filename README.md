@@ -15,7 +15,7 @@ Renan_Rodrigues = {
     "interests": ("AI", "Cloud", "DataScience", "BigData"),
     "mainCertifications": ("Amazon", "PythonInstitute", "Stanford", "Johns Hopkins"),
     "techCommunities": {"Member of the": 
-        ("IT.BR Australia", "Data Science AU.BR", "AWS AU.BR", "Python - IT.BR Australia", "IT.BR Java", "IT.BR Data")} 
+        ("GitHub Community Forum", "Stack Overflow", "Dev.to", "DevOps Discord", "Python Discord", "Java Discord")} 
 }
 ```
 
