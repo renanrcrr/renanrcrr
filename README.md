@@ -13,7 +13,7 @@ Renan_Rodrigues = {
     "dataScience": ("NumPy", "Pandas", "Matplotlib"),
     "bigData": ("PySpark"),
     "interests": ("AI", "Cloud", "DataScience", "BigData"),
-    "mainCertifications": ("Amazon", "PythonInstitute", "Stanford", "Johns Hopkins"),
+    "mainCertifications": ("Amazon", "Linux Professional Institute", "Python Institute", "Stanford", "Johns Hopkins"),
     "techCommunities": {"Member of the": 
         ("GitHub Community Forum", "Stack Overflow", "Dev.to", "DevOps Discord", "Python Discord", "Java Discord")} 
 }
