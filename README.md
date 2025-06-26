@@ -45,6 +45,13 @@ PHP dev: <img align="center" alt="PHP" src="https://img.shields.io/badge/php-4b7
 <img align="center" alt="Wordpress" src="https://img.shields.io/badge/Wordpress-4d5869?style=for-the-badge&logo=wordpress&logoColor=white">
 <br/>
 
+AI/ML: <img align="center" alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-black?style=for-the-badge&logo=huggingface&logoColor=yellow">
+<img align="center" alt="OpenAI Codex" src="https://img.shields.io/badge/OpenAI_Codex-white?style=for-the-badge&logo=openai&logoColor=black">
+<img align="center" alt="Rasa" src="https://img.shields.io/badge/Rasa-purple?style=for-the-badge&logo=rasa&logoColor=white">
+<img align="center" alt="Lang Chain" src="https://img.shields.io/badge/Lang_Chain-white?style=for-the-badge&logo=langchain&logoColor=green">
+<img align="center" alt="Generative AI" src="https://img.shields.io/badge/Generative_AI-white?style=for-the-badge&logo=databricks&logoColor=red">
+<br/>
+
 DBs: <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -56,7 +63,7 @@ Others: <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-
 <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img align="center" alt="Terraform" src="https://img.shields.io/badge/Terraform-white?style=for-the-badge&logo=Terraform&logoColor=purple">
-<img align="center" alt="Databricks" src="https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=Databricks&logoColor=#f70f1a">
+<img align="center" alt="Databricks" src="https://img.shields.io/badge/Databricks-white?style=for-the-badge&logo=Databricks&logoColor=#f70f1a">
 <img align="center" alt="Shopify" src="https://img.shields.io/badge/Shopify-white?style=for-the-badge&logo=shopify&logoColor=089e21">
 <br/>  
 </div>
