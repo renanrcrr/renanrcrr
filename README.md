@@ -6,7 +6,7 @@
 ### Certificate Achievements
 
  🏆 GitHub Foundations 🏆 (GitHub) <br/><br/>
- 🏆 Databricks Fundamentals 🏆 (Databricks) <br/><br/>
+ 🏆 2x Databricks: Fundamentals and Generative AI 🏆 (Databricks) <br/><br/>
  🏆 Linux Essentials 🏆 (Linux Professional Institute) <br/><br/>
  🏆 Python for Genomic Data Science 🏆 (Johns Hopkins University) <br/><br/>
  🏆 Certified Entry-Level Python Programmer 🏆 (Python Institute) <br/><br/>
