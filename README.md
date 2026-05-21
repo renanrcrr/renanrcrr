@@ -12,7 +12,7 @@
  🏆 Linux Essentials 🏆 (Linux Professional Institute) <br/><br/>
  🏆 Python for Genomic Data Science 🏆 (Johns Hopkins University) <br/><br/>
  🏆 Certified Entry-Level Python Programmer 🏆 (Python Institute) <br/><br/>
- 🏆 4x Cloud Quest: Cloud Practitioner, Solutions Architect, Serverless Developer, Data Analytics (AWS) <br/><br/>
+ 🏆 4x Cloud Quest: Cloud Practitioner, Solutions Architect, Serverless Developer, Data Analytics 🏆 (AWS) <br/><br/>
  🏆 Machine Learning 🏆 (Stanford University) <br/><br/>
  
 ### Tech Stack
