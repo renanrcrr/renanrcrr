@@ -68,11 +68,6 @@ Others: <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-
 <img align="center" alt="Shopify" src="https://img.shields.io/badge/Shopify-white?style=for-the-badge&logo=shopify&logoColor=089e21">
 <br/>  
 </div>
- 
- <br/>
- <br/>
- 
-![Renan Rodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanrcrr&show_icons=true)
 
 <br/>
 
@@ -87,14 +82,9 @@ Others: <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 
-<a href="https://renanrodrigues.hashnode.dev/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/hashnode-030061?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
-</a>
-
 <a href="https://orcid.org/0009-0005-7333-1227" target="_blank">
  <img align="center" src="https://img.shields.io/badge/orcid-32a852?style=for-the-badge&logo=orcid&logoColor=white" alt="Orcid"/>
 </a>
-
 
 <a href="https://x.com/devrcrrodrigues" target="_blank">
  <img align="center" src="https://img.shields.io/badge/devrcrrodrigues-0d0c0c?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
