@@ -5,6 +5,8 @@
  
 ### Certificate Achievements
 
+ 🏆 18x Anthropic AI 🏆 (Anthropic Academy) <br/><br/>
+ 🏆 2x Shopify: Fundamentals and Liquid Storefront 🏆 (Shopify) <br/><br/>
  🏆 GitHub Foundations 🏆 (GitHub) <br/><br/>
  🏆 3x Databricks: AWS Databricks Platform Architect, Databricks Fundamentals and Generative AI Fundamentals 🏆 (Databricks) <br/><br/>
  🏆 Linux Essentials 🏆 (Linux Professional Institute) <br/><br/>
@@ -35,7 +37,7 @@ Java dev: <img align="center" alt="Java" src="https://img.shields.io/badge/Java-
 
 JS dev: <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img align="center" alt="React" src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img align="center" alt="Typescript" src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB%22">
 <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
 <img align="center" alt="ExpressJS" src="https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black">
 <img align="center" alt="VueJS" src="https://img.shields.io/badge/Vue.js-white?style=for-the-badge&logo=vue.js&logoColor=089e21"> 
@@ -49,7 +51,7 @@ PHP dev: <img align="center" alt="PHP" src="https://img.shields.io/badge/php-4b7
 AI/ML: <img align="center" alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-black?style=for-the-badge&logo=huggingface&logoColor=yellow">
 <img align="center" alt="OpenAI Codex" src="https://img.shields.io/badge/OpenAI_Codex-white?style=for-the-badge&logo=openai&logoColor=black">
 <img align="center" alt="Rasa" src="https://img.shields.io/badge/Rasa-purple?style=for-the-badge&logo=rasa&logoColor=white">
-<img align="center" alt="Lang Chain" src="https://img.shields.io/badge/Lang_Chain-white?style=for-the-badge&logo=langchain&logoColor=green">
+<img align="center" alt="Anthropic AI" src="https://img.shields.io/badge/Anthropic-white?style=for-the-badge&logo=anthropic&logoColor=black">
 <img align="center" alt="Generative AI" src="https://img.shields.io/badge/Generative_AI-white?style=for-the-badge&logo=databricks&logoColor=red">
 <br/>
 
